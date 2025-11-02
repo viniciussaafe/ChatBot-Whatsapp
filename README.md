@@ -1,4 +1,4 @@
-<img align="center">![ChatBot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO5PLNl-HQOO7ukJbratFMj071iulSNd9lg&s?row=true)</img>
+<img aling="center">![ChatBot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO5PLNl-HQOO7ukJbratFMj071iulSNd9lg&s?row=true)</img>
 
 💬 Twilio SMS Webhook com Flask
 
